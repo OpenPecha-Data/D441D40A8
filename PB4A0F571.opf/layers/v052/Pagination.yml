@@ -1015,79 +1015,79 @@ annotations:
     reference: ''
     span:
       start: 188049
-      end: 189387
+      end: 189388
     note_ref: 8ac819cbd5614658839fbd2c5dfa3671
   d094e2f075a74c5f97d51779e2aaa720:
     imgnum: 383
     reference: ''
     span:
-      start: 189389
-      end: 190771
+      start: 189390
+      end: 190772
     note_ref: 8ac819cbd5614658839fbd2c5dfa3671
   a70dee6707f9430ab4fe1cae173e7cd1:
     imgnum: 384
     reference: ''
     span:
-      start: 190773
-      end: 192035
+      start: 190774
+      end: 192036
     note_ref: 8ac819cbd5614658839fbd2c5dfa3671
   a10060515ec94330863c91376fb618a7:
     imgnum: 385
     reference: ''
     span:
-      start: 192037
-      end: 193346
+      start: 192038
+      end: 193347
     note_ref: 8ac819cbd5614658839fbd2c5dfa3671
   a0d0707da89249559f3548c17400518a:
     imgnum: 386
     reference: ''
     span:
-      start: 193348
-      end: 194623
+      start: 193349
+      end: 194624
     note_ref: 8ac819cbd5614658839fbd2c5dfa3671
   e95f357c3cb04b5b9a12a936fab61eee:
     imgnum: 387
     reference: ''
     span:
-      start: 194625
-      end: 196192
+      start: 194626
+      end: 196193
     note_ref: 8ac819cbd5614658839fbd2c5dfa3671
   4511a23b7ab944bd8d926dd52a3c6551:
     imgnum: 388
     reference: ''
     span:
-      start: 196194
-      end: 198109
+      start: 196195
+      end: 198110
   2a851d58d8f24231932cf9fdc669907b:
     imgnum: 389
     reference: ''
     span:
-      start: 198111
-      end: 200051
+      start: 198112
+      end: 200052
   9c9e6ad1c16f48f0bece7171ea09ec9d:
     imgnum: 390
     reference: ''
     span:
-      start: 200053
-      end: 201657
+      start: 200054
+      end: 201658
   16d061bd774c4bbb99a3f3c8fc0de4ad:
     imgnum: 391
     reference: ''
     span:
-      start: 201659
-      end: 203548
+      start: 201660
+      end: 203549
   635a7e297a4e467fb9a0f4652e3f06b2:
     imgnum: 392
     reference: ''
     span:
-      start: 203550
-      end: 205439
+      start: 203551
+      end: 205440
   8ac819cbd5614658839fbd2c5dfa3671:
     imgnum: 393
     reference: ''
     span:
-      start: 205441
-      end: 207085
+      start: 205442
+      end: 207086
 local_ids:
   008698bc5b5a40c6b6f155336de0f55d: 200000
   a0d732fdddbf4c279eab7bb4095c9c84: 200001
